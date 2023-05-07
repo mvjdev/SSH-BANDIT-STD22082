@@ -11,7 +11,6 @@ YOU CAN JUST COPY AND PASTE THEM AND YOU WILL SEE BY YOURSELF THAT IT ABSOLUTELY
 
 _**
 
-### Note ::: this game is in a site called OVERTHEWIRE (bandit), you will see the instructions in that site, 
-but this is the solution for levels 0->22, and you do all these answers in your own terminal
+### Note ::: this game is in a site called OVERTHEWIRE (bandit), you will see the instructions in that site, but this is the solution for levels 0->22, and you do all these answers in your own terminal
 
 Good luck to you !
